@@ -1,0 +1,8 @@
+*.pyc
+*.yaml
+/venv/
+/venv2/
+/venv3/
+/.env/
+/.idea/
+/.vscode/
