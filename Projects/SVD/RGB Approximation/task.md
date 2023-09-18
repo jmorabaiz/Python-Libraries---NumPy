@@ -40,3 +40,9 @@ in terms of the norm of the difference.
 
 For more information, see <i>G. H. Golub and C. F. Van Loan, Matrix Computations, Baltimore, MD, Johns Hopkins University Press, 1985</i>.
 
+## What's next?
+
+- Continue exploring the world of Data with our [Gateway to Pandas](https://plugins.jetbrains.com/plugin/22686-gateway-to-pandas).
+- Find out how to build an [AMazing](https://plugins.jetbrains.com/plugin/17519-amazing) maze with Python.
+- Learn about the Reinforcement Learning basics with our [Reinforcement Learning](https://plugins.jetbrains.com/plugin/21188-reinforcement-learning-maze-solver) course.
+- Discover the basics of [Machine Learning](https://plugins.jetbrains.com/plugin/18392-machine-learning-101).
